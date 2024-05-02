@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "username": "gayu",
+      "email": "gayu@gmail.com",
+      "password": "12345",
+      "phone": "9629604674",
+      "id": 1
+    },
+    {
+      "username": "murugeswari",
+      "email": "murugeswari@vinkweb.com",
+      "password": "12345",
+      "phone": "9629604674",
+      "id": 2
+    }
+  ]
+}
